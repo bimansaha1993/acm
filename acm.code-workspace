@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"window.zoomLevel": 0,
+		"[cpp]": {},
+		"code-runner.runInTerminal": true,
+		"code-runner.clearPreviousOutput": true,
+		"code-runner.executorMap": {
+			"cpp": "g++ -g $fileName -o a.exe && a.exe"
+		},
+		"code-runner.preserveFocus": false,
+		"editor.renderWhitespace": "all",
+		"code-runner.saveFileBeforeRun": true,
+		"workbench.statusBar.visible": true,
+		"workbench.activityBar.visible": true,
+		"editor.minimap.enabled": true,
+		"git.autofetch": true,
+		"code-runner.fileDirectoryAsCwd": true
+	}
+}
